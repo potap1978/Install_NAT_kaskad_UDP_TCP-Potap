@@ -1,5 +1,12 @@
+
+
+
 Каскадная переадресация портов
 
+Install
+```bash
+bash <(wget -qO- https://github.com/potap1978/Install_NAT_kaskad_UDP_TCP-Potap/blob/main/install_nat_kaskad_Potap_31.12.2025.sh)
+```
 
 Описание
 
