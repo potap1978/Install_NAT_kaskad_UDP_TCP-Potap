@@ -10,6 +10,8 @@ bash <(wget -qO- https://raw.githubusercontent.com/potap1978/Install_NAT_kaskad_
 
 Описание
 
+![NAT](https://github.com/user-attachments/assets/aec3514a-fda8-44bc-b98a-63af7cb925f9)
+
 
 Скрипт автоматизирует настройку каскадной переадресации портов на Linux-сервере с использованием iptables. Позволяет создать промежуточный сервер (мост) для туннелирования трафика между клиентами и удаленными VPN/прокси-серверами.
 
